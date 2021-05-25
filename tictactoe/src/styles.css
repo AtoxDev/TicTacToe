@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+
+.chat-mensajes {
+  max-height: 300px;
+  height: 300px;
+  overflow-y: scroll;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  border: 1px solid #f7f0f0;
+}
